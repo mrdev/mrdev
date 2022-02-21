@@ -1,0 +1,1 @@
+Mister Dev is a full circle software house, delivering bespoke and cutting edge solutions builded with some of the world leading development stack such as AWS, Laravel and Vue to both the industry and end-customers.
